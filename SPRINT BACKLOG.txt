@@ -1,0 +1,30 @@
+Projeto: Versionamento de Arquivos com Git/GitHub
+
+Sprint Atual
+
+Histórias selecionadas para desenvolvimento:
+
+História de Usuário 1
+
+Objetivo:
+Alterar a apresentação dos nomes dos veículos na página inicial, deixando o texto na cor azul.
+
+Atividade planejada:
+Modificar o arquivo index.html conforme a solicitação do Product Owner.
+
+Estimativa de esforço:
+3 pontos.
+
+História de Usuário 3
+
+Objetivo:
+Atualizar os nomes dos links da página de contato para facilitar a navegação do usuário.
+
+Atividade planejada:
+Editar o arquivo contato.html alterando os textos dos links conforme definido no Product Backlog.
+
+Estimativa de esforço:
+2 pontos.
+
+Total estimado do Sprint:
+5 pontos.
