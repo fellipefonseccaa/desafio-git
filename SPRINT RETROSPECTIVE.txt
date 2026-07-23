@@ -1,0 +1,12 @@
+Projeto: Controle de Versionamento com Git/GitHub
+
+O que funcionou bem
+
+As tarefas previstas para o Sprint foram concluídas conforme o planejamento. A utilização de branches separadas permitiu desenvolver cada história de usuário de forma organizada. Os commits facilitaram o controle das alterações e o merge possibilitou integrar as implementações à branch principal sem perda das modificações.
+
+O que apresentou dificuldades
+
+Durante o desenvolvimento surgiram dúvidas relacionadas aos comandos do Git, principalmente na criação das branches, na sincronização com o repositório remoto e na realização dos merges. Após revisar o procedimento, foi possível concluir todas as etapas corretamente.
+
+Sugestões de melhoria
+Nos próximos sprints, recomenda-se revisar previamente o fluxo de trabalho com Git, manter os commits menores e mais frequentes e validar o estado do repositório antes de executar merges ou pushes. Essas práticas ajudam a reduzir conflitos e tornam o histórico do projeto mais organizado.
